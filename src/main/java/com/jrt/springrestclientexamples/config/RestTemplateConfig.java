@@ -1,4 +1,4 @@
-package com.jrt.springrestclientexample.config;
+package com.jrt.springrestclientexamples.config;
 
 import org.springframework.boot.web.client.RestTemplateBuilder;
 import org.springframework.context.annotation.Bean;

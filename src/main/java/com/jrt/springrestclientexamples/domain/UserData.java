@@ -1,4 +1,4 @@
-package com.jrt.springrestclientexample.domain;
+package com.jrt.springrestclientexamples.domain;
 
 import java.util.List;
 

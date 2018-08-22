@@ -1,4 +1,4 @@
-package com.jrt.springrestclientexample;
+package com.jrt.springrestclientexamples;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

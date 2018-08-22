@@ -1,6 +1,6 @@
-package com.jrt.springrestclientexample.services;
+package com.jrt.springrestclientexamples.services;
 
-import com.jrt.springrestclientexample.domain.User;
+import com.jrt.springrestclientexamples.domain.User;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -10,7 +10,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 import java.util.List;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
